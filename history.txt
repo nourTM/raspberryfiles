@@ -1,0 +1,219 @@
+    1  exit
+    2  fsck
+    3  sudo fsck
+    4  sudo fsck /dev/mmcblk0
+    5  sudo fsck /dev/mmcblk0p5
+    6  sudo fsck
+    7  reboot
+    8  cd Desktop/
+    9  ls
+   10  exit
+   11  fsck
+   12  more /var/log/fsck/checkfs 
+   13  ls
+   14  df -h
+   15  ssh
+   16  cd /etc/ssh
+   17  ls- all
+   18  ls- a
+   19  ls -al
+   20  ps aux | grep ssh
+   21  cd ..
+   22  cd ..
+   23  cd /var/local/sys
+   24  python servo.py 
+   25  python servo.py 
+   26  python servo.py 
+   27  python servo.py 
+   28  python servo.py 
+   29  python servo.py 
+   30  python servo.py 
+   31  python servo.py 
+   32  python servo.py 
+   33  python servo.py 
+   34  python servo.py 
+   35  python servo.py 
+   36  python servo.py 
+   37  python serial_read.py
+   38  python serial_read.py
+   39  python serial_read.py
+   40  python serial_read.py
+   41  python serial_read.py
+   42  python servo.py 
+   43  python servo.py 
+   44  python servo.py 
+   45  python servo.py 
+   46  python servo.py 
+   47  python servo.py 
+   48  python servo.py 
+   49  python servo.py 
+   50  python servo.py 
+   51  python servo.py 
+   52  python serial_read.py
+   53  python serial_read.py
+   54  python serial_read.py
+   55  python serial_read.py
+   56  cd /dev/disk/by-uuid/
+   57  ls -al
+   58  cd /media
+   59  ls -al
+   60  df -h
+   61  cd /dev/disk/by-uui
+   62  cd /dev/disk/by-uuid
+   63  ls -al
+   64  mkdir /media/usb
+   65  mount /dev/sda1 /media/usb
+   66  df -h
+   67  cd ..
+   68  cd /var/local/sys/
+   69  python serial_read.py 
+   70  unmount /media/usb/
+   71  umount /media/usb/
+   72  cd /var/local/sy
+   73  cd /var/local/sys
+   74  python serial_read.py 
+   75  mount /dev/sda1 /media/usb
+   76  python /media/usb/engine.py 
+   77  python /media/usb/engine.py 
+   78  python /media/usb/engine.py 
+   79  python /media/usb/engine.py 
+   80  python /media/usb/engine.py 
+   81  python /media/usb/engine.py 
+   82  python /media/usb/engine.py 
+   83  python /media/usb/engine.py 
+   84  python /media/usb/engine.py 
+   85  python /media/usb/engine.py 
+   86  python /media/usb/engine.py 
+   87  python /media/usb/engine.py 
+   88  python /media/usb/engine.py 
+   89  python /media/usb/engine.py 
+   90  python /media/usb/engine.py 
+   91  python /media/usb/engine.py 
+   92  python /media/usb/engine.py 
+   93  python /media/usb/engine.py 
+   94  python /media/usb/engine.py 
+   95  python /media/usb/engine.py 
+   96  python /media/usb/engine.py 
+   97  python /media/usb/engine.py 
+   98  python /media/usb/engine.py 
+   99  python /media/usb/engine.py 
+  100  python /media/usb/engine.py 
+  101  python /media/usb/engine.py 
+  102  python /media/usb/engine.py 
+  103  python /media/usb/engine.py 
+  104  python /media/usb/engine.py 
+  105  python /media/usb/engine.py 
+  106  python /media/usb/engine.py 
+  107  python /media/usb/engine.py 
+  108  python /media/usb/engine.py 
+  109  python /media/usb/engine.py 
+  110  python /media/usb/engine.py 
+  111  nano /home/pi/mt.bash
+  112  nano /home/pi/umt.bash
+  113  nano /home/pi/.bashrc 
+  114  chmod 755 /home/pi/mt.bash 
+  115  chmod 755 /home/pi/umt.bash 
+  116  mt
+  117  rn
+  118  cd /home/pi/
+  119  mv mt.bash usbmt.bash
+  120  mv umt.bash usbumt.bash
+  121  ./usbumt.bash 
+  122  ./usbmt.bash 
+  123  nano usbmt.bash 
+  124  ./usbmt.bash 
+  125  mount /dev/sda1 /mount/usb
+  126  nano usbmt.bash 
+  127  ./usbmt.bash 
+  128  nano usbumt.bash 
+  129  umount /dev/sda1
+  130  cd /media/usb
+  131  ls -al
+  132  cd ~
+  133  ./usbmt.bash 
+  134  ls -al
+  135  pwd
+  136  cd /home/pi
+  137  ./usbmt.bash 
+  138  cd /media/usb
+  139  ls
+  140  cd /home/pi
+  141  cd /media/usb
+  142  python serial_read.py 
+  143  nano serial_read.py 
+  144  python serial_read.py 
+  145  nano serial_read.py 
+  146  python serial_read.py 
+  147  python serial_read.py 
+  148  nano serial_read.py 
+  149  python serial_read.py 
+  150  nano serial_read.py 
+  151  nano serial_read.py 
+  152  python serial_read.py 
+  153  cd ..
+  154  cd ..
+  155  shutdown -h now
+  156  ifconfig
+  157  ip -a
+  158  ip a
+  159  ip a
+  160  df
+  161  df
+  162  blkid -o list
+  163  mount -t vfat /dev/sda1 /mnt/usb
+  164  cd /root/Desktop
+  165  sudo python servo.py
+  166  sudo python servo.py
+  167  sudo python servo.py
+  168  sudo python servo.py
+  169  sudo ifdown wlan0
+  170  ip -a
+  171  ip a
+  172  iface
+  173  sudo vi /etc/network/interfaces 
+  174  sudo /etc/init.d/networking restart
+  175  mcedit ifstate
+  176  sudo touch ifstate
+  177  ls
+  178  sudo /etc/init.d/networking restart
+  179  ip a
+  180  sudo /etc/init.d/networking stop
+  181  sudo /etc/init.d/networking start
+  182  ip a
+  183  cd /home/Desktop
+  184  cd 
+  185  cd Desktop/
+  186  ls
+  187  sudo python servo.py
+  188  sudo python servo.py
+  189  sudo python servo.py
+  190  sudo python serial_read.py 
+  191  sudo python serial_read.py 
+  192  sudo python serial_read.py >> gps.txt
+  193  sudo python serial_read.py >> gps.txt
+  194  sudo python serial_read.py > gps.txt
+  195  ip a
+  196  sudo service networking status
+  197  sudo service networking restart
+  198  cd /var/run/
+  199  ls
+  200  sudo mkdir network
+  201  ls
+  202  cd network/
+  203  sudo su
+  204  cd Desktop
+  205  ls
+  206  sudo python servo.py
+  207  sudo python servo.py
+  208  sudo python asdf.py
+  209  sudo python asdf.py
+  210  sudo python asdf.py
+  211  sudo python asdf.py
+  212  sudo python asdf.py
+  213  sudo python asdf.py
+  214  sudo python asdf.py
+  215  sudo python asdf.py
+  216  sudo python asdf.py
+  217  history
+  218  cd Desktop/
+  219  history > history.txt
